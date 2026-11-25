@@ -26,7 +26,7 @@
 | | |
 |---|---|
 | **Google Play** | [to.smok.app](https://play.google.com/store/apps/details?id=to.smok.app) |
-| **Android APK** | [smoktomap/smok-android → Releases](https://github.com/smoktomap/smok-android/releases) (the same Play-signed build) |
+| **Android APK** | [smoktomap/smok-android → Releases](https://github.com/smoktomap/smok-android/releases) (signed with the Smok developer key, so not installable over a Google Play copy) |
 | **Website** | [smok.to](https://smok.to) (also in 日本語: [smok.to/jp](https://smok.to/jp/)) |
 
 ## Our rule
